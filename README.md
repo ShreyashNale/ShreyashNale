@@ -6,7 +6,7 @@
 ### Java Full Stack Developer | Spring Boot • React.js • Backend Engineering • GenAI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shreyash%20Nale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyashnale)
-[![Email](https://img.shields.io/badge/Email-shreyashnale.021%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyashnale.021@gmail.com)
+[![Email](https://img.shields.io/badge/Email-shreyashnale.021%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shreyashnale.021@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ShreyashNale-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShreyashNale)
 
 <p align="center">
